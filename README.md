@@ -1,4 +1,4 @@
-# india-screener-mcp
+# Daito
 
 A **Next.js** app hosting an **MCP (Model Context Protocol) server** at `/api/mcp` with screener tools for Indian markets.
 
