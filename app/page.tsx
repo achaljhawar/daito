@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main style={{ fontFamily: "monospace", padding: "2rem" }}>
-      <h1>india-screener-mcp</h1>
+      <h1>daito</h1>
       <p>
         MCP server exposing Indian stock and mutual fund screener tools at{" "}
         <code>/api/mcp</code>.
