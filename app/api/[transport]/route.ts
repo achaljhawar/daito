@@ -111,7 +111,7 @@ const handler = createMcpHandler(
     );
   },
   {
-    serverInfo: { name: "india-screener-mcp", version: "1.0.0" },
+    serverInfo: { name: "daito", version: "1.0.0" },
   },
   {
     basePath: "/api",
